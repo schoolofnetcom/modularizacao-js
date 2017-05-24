@@ -1,0 +1,28 @@
+{
+  "name": "ng2-install-son",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ng2-install": "bin/ng2-install"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikfig/ng2-install-son.git"
+  },
+  "author": "Erik Figueiredo <erik@rik.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikfig/ng2-install-son/issues"
+  },
+  "homepage": "https://github.com/erikfig/ng2-install-son#readme",
+  "dependencies": {
+    "git-clone": "^0.1.0",
+    "install": "^0.10.1",
+    "npm": "^4.6.1",
+    "rimraf": "^2.6.1"
+  }
+}
